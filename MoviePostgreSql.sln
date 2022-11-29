@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviePostgreSql", "MoviePostgreSql\MoviePostgreSql.csproj", "{CD37D8EE-7FC0-4E0B-A9AE-2DB399ED15E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviePostgreSql.Domain", "MoviePostgreSql.Domain\MoviePostgreSql.Domain.csproj", "{89F3C39D-0F0E-44E4-93ED-B1D23257D7F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD37D8EE-7FC0-4E0B-A9AE-2DB399ED15E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD37D8EE-7FC0-4E0B-A9AE-2DB399ED15E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD37D8EE-7FC0-4E0B-A9AE-2DB399ED15E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD37D8EE-7FC0-4E0B-A9AE-2DB399ED15E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F3C39D-0F0E-44E4-93ED-B1D23257D7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F3C39D-0F0E-44E4-93ED-B1D23257D7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F3C39D-0F0E-44E4-93ED-B1D23257D7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F3C39D-0F0E-44E4-93ED-B1D23257D7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06E58AF7-D58A-4285-9F78-05FD6FC30037}
+	EndGlobalSection
+EndGlobal

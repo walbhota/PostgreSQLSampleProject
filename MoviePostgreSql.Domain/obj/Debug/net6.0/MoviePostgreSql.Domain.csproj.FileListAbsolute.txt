@@ -1,0 +1,14 @@
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\bin\Debug\net6.0\MoviePostgreSql.Domain.deps.json
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\bin\Debug\net6.0\MoviePostgreSql.Domain.runtimeconfig.json
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\bin\Debug\net6.0\MoviePostgreSql.Domain.dll
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\bin\Debug\net6.0\MoviePostgreSql.Domain.pdb
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\obj\Debug\net6.0\MoviePostgreSql.Domain.csproj.AssemblyReference.cache
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\obj\Debug\net6.0\MoviePostgreSql.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\obj\Debug\net6.0\MoviePostgreSql.Domain.AssemblyInfoInputs.cache
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\obj\Debug\net6.0\MoviePostgreSql.Domain.AssemblyInfo.cs
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\obj\Debug\net6.0\MoviePostgreSql.Domain.csproj.CoreCompileInputs.cache
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\obj\Debug\net6.0\MoviePostgreSql.Domain.dll
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\obj\Debug\net6.0\refint\MoviePostgreSql.Domain.dll
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\obj\Debug\net6.0\MoviePostgreSql.Domain.pdb
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\obj\Debug\net6.0\MoviePostgreSql.Domain.genruntimeconfig.cache
+C:\Users\walbh\source\repos\MoviePostgreSql\MoviePostgreSql.Domain\obj\Debug\net6.0\ref\MoviePostgreSql.Domain.dll

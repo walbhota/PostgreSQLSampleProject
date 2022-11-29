@@ -1,0 +1,16 @@
+﻿@model IEnumerable<MoviePostgreSql.ViewModels.MovieViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@foreach(var movie in Model)
+{
+    <h1>@movie.Title</h1>
+    <h2>@movie.Year</h2>
+    <p class="m-2">Summary: @movie.Summary</p>
+    <p>Actors:</p>
+    <p>@movie.Actors)</p>
+
+}
+
